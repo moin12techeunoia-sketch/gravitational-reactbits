@@ -227,7 +227,8 @@ const FallingText = ({
       Runner.stop(runner);
       
       if (render.canvas && canvasContainerRef.current) {
-        canvasContainerRef.current.removeChild(render.canvas);
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+        canvasContainerRef.current.removeChild(render.canvas); 
       }
       
       World.clear(engine.world);
