@@ -4,10 +4,10 @@ import FallingText from './FallingText';
 
 function App() {
   const words = [
-    "Marketing", "SEO", "PPC", "Search", "Leads", "Creatives", 
+    "Marketing", "SEO", "PPC","Podcast", "Search", "Leads", "Creatives", 
     "Sales", "Strategy", "Conversions", "APP Development", 
     "Website Development", "Social Media", "Graphic Designing", 
-    "Media House", "Podcast"
+    "Media House", 
   ];
   
   return (
