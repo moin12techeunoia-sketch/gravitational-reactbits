@@ -7,7 +7,7 @@ function App() {
     "Marketing", "SEO", "PPC","Podcast", "Search", "Leads", "Creatives", 
     "Sales", "Strategy", "Conversions", "APP Development", 
     "Website Development", "Social Media", "Graphic Designing", 
-    "Media House", 
+    "Media House", "Google Ads", "Bidding",
   ];
   
   return (
