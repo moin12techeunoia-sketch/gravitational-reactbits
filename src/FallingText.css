@@ -27,7 +27,12 @@
   }
   
   .highlighted {
-    color: #046bd2; /* Fallback */
+    background-image: linear-gradient(270deg, #DB9939 0%, #737FFB 100%);
+        background-size: cover;
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-fill-color: transparent;
     color: var(--ast-global-color-0, #046bd2);
     font-weight: bold;
   }
