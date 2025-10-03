@@ -7,6 +7,9 @@
     text-align: center;
     padding-top: 2em;
     /* box-shadow: none !important; */
+        display: flex;
+    justify-content: center;
+    align-items: center;
   }
   
   .falling-text-target {
