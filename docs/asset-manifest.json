@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gravitational-reactbits/static/css/main.18de6f43.css",
+    "main.css": "/gravitational-reactbits/static/css/main.ac7ccdac.css",
     "main.js": "/gravitational-reactbits/static/js/main.36e3cd83.js",
     "static/js/453.86db59a3.chunk.js": "/gravitational-reactbits/static/js/453.86db59a3.chunk.js",
     "index.html": "/gravitational-reactbits/index.html",
-    "main.18de6f43.css.map": "/gravitational-reactbits/static/css/main.18de6f43.css.map",
+    "main.ac7ccdac.css.map": "/gravitational-reactbits/static/css/main.ac7ccdac.css.map",
     "main.36e3cd83.js.map": "/gravitational-reactbits/static/js/main.36e3cd83.js.map",
     "453.86db59a3.chunk.js.map": "/gravitational-reactbits/static/js/453.86db59a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18de6f43.css",
+    "static/css/main.ac7ccdac.css",
     "static/js/main.36e3cd83.js"
   ]
 }
