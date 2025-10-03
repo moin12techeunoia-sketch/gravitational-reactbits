@@ -38,4 +38,11 @@
     left: 0;
     z-index: 0;
   }
-  
+
+
+@media (max-width:767px) {
+    .falling-text-target {
+    font-size: 20px !important;
+    line-height: 20px !important;
+}
+}
