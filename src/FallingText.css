@@ -46,10 +46,12 @@
   }
   
 
+
+
 @media (max-width: 767px) {
     .App span.word {
     font-size: 20px;
-    line-height: 20px;
+    line-height: 21px;
 }
     .App .falling-text-target {
     line-height: 25px !important;
