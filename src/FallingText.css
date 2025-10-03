@@ -51,4 +51,7 @@
     font-size: 20px;
     line-height: 20px;
 }
+    .App .falling-text-target {
+    line-height: 25px !important;
+}
 }
