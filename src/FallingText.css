@@ -59,4 +59,7 @@
     .App .falling-text-target {
     line-height: 25px !important;
 }
+    .animation-container {
+    padding-bottom: 30px;
+}
 }
